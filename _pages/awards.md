@@ -17,7 +17,6 @@ nav_order: 5
 - (2018) International Underwater Robot Competition (First Prize)
 - (2018) National Scholarship
 
-
 ### Services
 - Regular reviewer for RSS' 24, CoRL' 24, ICML' 24, ICLR'24-25, NeurIPS'23-24, AAAI'25
 - Regular reviewer for IEEE Access, InS
