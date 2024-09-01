@@ -7,7 +7,7 @@ importance: 1
 category: work
 related_publications: false
 ---
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js"></script>
 <div align="center"> <img src='/assets/img/robot.gif' width=500 height=300> </div>
 
 ModularEvoGym [1] is based on Evolution Gym [2], a large-scale benchmark for co-optimizing the design and control of Voxel-based Soft Robots (VSRs). We modified the original state representation to formulate a new modular observation space. The input state of the robot at time step $t$ is represented as $s_{t}^{c}=\lbrace s_{t}^{v},s_{t}^{g}\rbrace$, where $s_{t}^{v}=\lbrace s_{t}^{v_{1}}, s_{t}^{v_{2}},...,s_{t}^{v_N}\rbrace$, $s_{t}^{v_i}$ is composed of each voxel's local information which contains the relative position of its four corners with respect to the center of mass of the robot and its material information (e.g., soft voxel, rigid voxel, horizontal actuator and vertical actuator). $s_{t}^{g}$ is the task-related observation such as terrain information of the environment and goal-relevant information. During the simulation, voxels (except empty voxels) only sense locally, and based on the input sensory information, a controller outputs control signals to vary the volume of actuator voxels. The morphology of the robot is unchangeable during the interaction with the environment.

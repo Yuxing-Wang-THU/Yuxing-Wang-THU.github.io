@@ -17,7 +17,7 @@ profile:
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 awards: true
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 ---
 您好 Привет Hello Bonjour Ciao こんにちは 안녕하세요 Hallo Hola
@@ -27,7 +27,3 @@ As a research assistant at [Tsinghua University](https://www.tsinghua.edu.cn/), 
 I received the B.Eng. degree from Southwest Minzu University, P.R. China, in 2020, and the M.Eng. degree from Tsinghua University, P.R. China, in 2023 (advised by [Prof. Xueqian Wang](https://scholar.google.com/citations?user=h9dN_ykAAAAJ&hl=zh-CN)). My industry experience includes being a research intern at [Tencent AI Lab](https://ai.tencent.com/ailab/) from May 2022 to May 2023, where I collaborated with [Shuang Wu](https://scholar.google.com/citations?hl=zh-CN&user=_MtBmxkAAAAJ) and [Haobo Fu](https://haobofu.github.io/). My internship was supported by the 2022 Tencent Rhino-Bird Research Elite Program, and my work focused on generating user-specified behavioral diversity for Game AI.
 
 My favorite singer is [Hikaru Utada](https://en.wikipedia.org/wiki/Hikaru_Utada). Feel free to drop me an email if you are interested in my research or related ideas.
-
-<div class="content">
-</div>
-<footer class="footer"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5la4vnho5tp&amp;s=206&amp;m=0&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script></footer>
