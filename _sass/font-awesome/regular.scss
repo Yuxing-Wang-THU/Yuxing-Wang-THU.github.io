@@ -12,17 +12,36 @@
   --#{$fa-css-prefix}-font-regular: normal 400 1em/1 "#{ $fa-style-family }";
 }
 
+// @font-face {
+//   font-family: "Font Awesome 6 Free";
+//   font-style: normal;
+//   font-weight: 400;
+//   font-display: $fa-font-display;
+//   src:
+//     url("#{$fa-font-path}/fa-regular-400.woff2") format("woff2"),
+//     url("#{$fa-font-path}/fa-regular-400.ttf") format("truetype");
+// }
+
+// .far,
+// .#{$fa-css-prefix}-regular {
+//   font-weight: 400;
+// }
 @font-face {
-  font-family: "Font Awesome 6 Free";
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Merriweather';
   font-style: normal;
   font-weight: 400;
-  font-display: $fa-font-display;
-  src:
-    url("#{$fa-font-path}/fa-regular-400.woff2") format("woff2"),
-    url("#{$fa-font-path}/fa-regular-400.ttf") format("truetype");
+  src: url('/assets/fonts/merriweather-v30-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-.far,
-.#{$fa-css-prefix}-regular {
-  font-weight: 400;
+body {
+  /* 更改正文字体 */
+  font-family: 'Merriweather';
+  font-size: 1.2rem;
+}
+
+code {
+  /* 更改code字体 */
+  font-family: 'Merriweather';
+  font-size: 1.05rem;
 }
