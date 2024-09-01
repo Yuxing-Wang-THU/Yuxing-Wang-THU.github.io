@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522012658) got accepted to [Information Sciences](https://www.sciencedirect.com/journal/information-sciences).
+One paper got accepted to Information Sciences.

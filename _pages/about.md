@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
       <a href="/assets/pdf/YW_Resume.pdf"><i class="ai ai-cv-square ai-2x"></i></a>
-      <a href="https://www.linkedin.com/in/%E6%98%B1%E5%85%B4-%E7%8E%8B-a69137309/"><i class="fa-brands fa-linkedin fa-2x"></i></a>
+      <a href="https://www.linkedin.com/"><i class="fa-brands fa-linkedin fa-2x"></i></a>
       <a href="https://scholar.google.com/citations?user=ac-6jfMAAAAJ"><i class="ai ai-google-scholar-square ai-2x"></i></a>
       <a href="https://github.com/Yuxing-Wang-THU"><i class="fa-brands fa-square-github fa-2x"></i></a>
 
