@@ -1,2 +1,5 @@
-# Yuxing-Wang-THU.github.io
-My site
+<div align=center>
+​
+# Hi, this is Yuxing Wang👋
+​
+</div>
