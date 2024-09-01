@@ -5,7 +5,7 @@ description: Co-designing modular soft robots with ModularEvoGym
 img: /assets/img/robot.gif
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 <div align="center"> <img src='/assets/img/robot.gif' width=500 height=300> </div>
@@ -39,7 +39,7 @@ $9 \times 9$ design space, $81$ voxels.
 $11 \times 11$ design space, $121$ voxels.
 <div align="center"> <img src='/assets/img/5.gif' width=500 height=300> </div>
 
-**Reference**
+## Reference
 
 [1] [ModularEvoGym](https://github.com/Yuxing-Wang-THU/ModularEvoGym)<br/>
 [2] [Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots](https://evolutiongym.github.io/)<br/>
