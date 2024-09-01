@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Assistant @ [Tsinghua University](https://www.tsinghua.edu.cn/) 
+subtitle: Research Assistant @ Tsinghua University
 
 profile:
   align: left
@@ -17,7 +17,7 @@ profile:
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 awards: true
-# projects: true
+projects: true
 social: false # includes social icons at the bottom of the page
 ---
 您好 Привет Hello Bonjour Ciao こんにちは 안녕하세요 Hallo Hola
