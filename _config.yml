@@ -198,12 +198,20 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 6 # leave blank to include all the news in the `_news` folder
+  limit: 10 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+teaching:
+  enabled: true
+
+gallery_dir: photos
+galleries:
+  test:
+    best_image: 
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
