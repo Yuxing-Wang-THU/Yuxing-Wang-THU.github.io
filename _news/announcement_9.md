@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One [paper](https://ieeexplore.ieee.org/abstract/document/10145851) got accepted to [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
+One [paper](https://ieeexplore.ieee.org/abstract/document/10145851) got accepted to IEEE TNNLS.

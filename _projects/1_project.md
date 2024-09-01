@@ -47,4 +47,4 @@ $11 \times 11$ design space, $121$ voxels.
 [4] [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)<br/>
 [5] [Compositional Pattern Producing Network](https://link.springer.com/article/10.1007/s10710-007-9028-8)<br/>
 [6] [Neural Cellular Automata](https://distill.pub/2020/growing-ca/)<br/>
-[7] [Curriculum-based Co-design of Morphology and Control of Voxel-based Soft Robots](https://yuxing-wang-thu.github.io/publication/2023-01-01-paper-title-number-1)
+[7] [Curriculum-based Co-design of Morphology and Control of Voxel-based Soft Robots](https://openreview.net/forum?id=r9fX833CsuN)
