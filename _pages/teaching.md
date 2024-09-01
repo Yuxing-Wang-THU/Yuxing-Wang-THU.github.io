@@ -1,41 +1,52 @@
 ---
 layout: page
 permalink: /photos/
-title: Photos
+title: Gallery
 description: I am not expert in photography, but I like keep a record of happy times. 
 nav: true
 nav_order: 6
 ---
 
-<table>
-  <tr>
-      <td ><center><img src="/assets/img/biye.jpg" >Graduation, Tsinghua University </center></td>
-      <td ><center><img src="/assets/img/hehua.jpg"  >Lotus, Old Summer Palace </center></td>
-  </tr>
+{% for gallery in page.galleries %}
+<div style="width: 35em; text-align: center; padding: 1em 0 4em 0;">
+    <a href="{{ gallery['gallery'] }}">
+        <img style="max-height: 20em; max-width: 20em;" src="{{ gallery['gallery'] }}/thumbs/{{ gallery['best_image'] }}">
+    </a>
+    <h3><a href="{{ gallery['gallery'] }}">{{ gallery["name"] }}</a></h3>
+    {{ gallery["images"] | size }} images
+</div>
+{% endfor %}
 
-  <tr>
-      <td ><center><img src="/assets/img/11.jpg" >Prayer flags, Mount Qomolangma </center></td>
-      <td ><center><img src="/assets/img/12.jpg"  >Kang Rinpoche, Tibet </center></td>
-  </tr>
+<style TYPE="text/css">
+.gallery-image-wrapper {
+  height: 300px;
+  width: 300px;
+  display: inline-block;
+  margin: 1em;
+  position: relative;
+  text-align: center;
+}
+.gallery-image {
+  margin: auto;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  max-height: 100%;
+  max-width: 100%;
+}
+</style>
+<h1><a href="/{{ site.gallery_dir }}">{{ page.title }}</a></h1>
+<hr />
+{% for image in page.images %}
+    <div class="gallery-image-wrapper">
+			<a href="{{ image }}"><img class="gallery-image" src="thumbs/{{ image }}" /></a>
+			<div>
+				<p>
+					height:{{ page.photos[image].height }} width:{{ page.photos[image].width }}
+				</p>
+				<p>model:{{ page.photos[image].model }} data_time:{{ page.photos[image].data_time }} </p>
+				<p>exposure_time: {{ page.photos[image].exposure_time }} f_number:{{ page.photos[image].f_number }}</p>
+			</div>
+    </div>
+{% endfor %}
 
-  <tr>
-      <td><center><img src="/assets/img/yonghe.jpg"  >Lama Temple, BeiJing</center></td>
-      <td ><center><img src="/assets/img/lam.jpg"  >Pagoda, Tibet</center> </td>
-  </tr>
-
-  <tr>
-      <td><center><img src="/assets/img/n.jpg"   >Jin li, Chengdu</center></td>
-      <td><center><img src="/assets/img/yangzhuo.jpg"  >Lake Yamdrok, Tibet</center></td>
-  </tr>
-
-  <tr>
-      <td><center><img src="/assets/img/lla.jpg"  >Lama, Tashilhunpo Monastery</center></td>
-      <td><center><img src="/assets/img/g.jpg"   >Freehand</center></td>
-  </tr>
-
-  <tr>
-      <td><center><img src="/assets/img/cat.jpg"  >Cat</center></td>
-      <td><center><img src="/assets/img/eva.jpg"   >Evangelion, Shanghai</center></td>
-  </tr>
-
-</table>
