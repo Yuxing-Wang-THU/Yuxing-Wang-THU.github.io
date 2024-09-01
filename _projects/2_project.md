@@ -2,7 +2,7 @@
 layout: page
 title: Python & C++ Fem
 description: Linear Finite Element Method (FEM) for simulating hyperelastic cubes
-img: /assets/img/imp.gif
+img: /assets/img/single_2D_Linear_implicit_False.gif
 importance: 2
 category: work
 related_publications: false

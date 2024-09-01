@@ -2,8 +2,8 @@
 layout: page
 title: A Wearable Hand Rehabilitation Robot
 description: Helping people with disabilities
-img: /assets/img/imp.gif
-importance: 2
+img: /assets/img/hand.jpg
+importance: 4
 category: work
 related_publications: false
 
