@@ -18,6 +18,11 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 awards: true
 social: false # includes social icons at the bottom of the page
+
+---
+### Talks
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5la4vnho5tp&amp;s=206&amp;m=0&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
+
 ---
 您好 Привет Hello Bonjour Ciao こんにちは 안녕하세요 Hallo Hola
 
@@ -27,5 +32,3 @@ I received the B.Eng. degree from Southwest Minzu University, P.R. China, in 202
 
 My favorite singer is [Hikaru Utada](https://en.wikipedia.org/wiki/Hikaru_Utada). Feel free to drop me an email if you are interested in my research or related ideas.
 
----
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5la4vnho5tp&amp;s=206&amp;m=0&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
