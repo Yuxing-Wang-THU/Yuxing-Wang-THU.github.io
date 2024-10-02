@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: Research Assistant @ Tsinghua University
-description: <br><a href="https://www.google.com/maps/place/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6/@39.9996715,116.3242552,17z/data=!3m1!4b1!4m6!3m5!1s0x35f0541fa61e3c8f:0xd95a50fee0e0e2c9!8m2!3d39.9996674!4d116.3264439!16zL20vMGprc20"><font color = "#3E3E3E"> No 1 Qinghuayuan Street, Haidian District 100084, Beijing China </font></a><br>
+description: <br><a href="https://www.google.com/maps/place/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6/@39.9996715,116.3242552,17z/data=!3m1!4b1!4m6!3m5!1s0x35f0541fa61e3c8f:0xd95a50fee0e0e2c9!8m2!3d39.9996674!4d116.3264439!16zL20vMGprc20">
 
 profile:
   align: left
