@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Assistant @ Tsinghua University
+subtitle: Time will tell
 
 profile:
   align: left
@@ -20,10 +20,10 @@ awards: true
 social: false # includes social icons at the bottom of the page
 
 ---
-您好 Привет Hello Bonjour Ciao こんにちは 안녕하세요 Hallo Hola ！
+您好 Привет Hello Bonjour Ciao こんにちは 안녕하세요 Hallo Hola
 
-As a researcher @ [Tsinghua University](https://www.tsinghua.edu.cn/), my passion lies in Robotics, Evolutionary Reinforcement Learning and, Embodied AI. I aim to develop intelligent robotic systems that dynamically adapt their morphologies and behaviors. Through this lens, I create magic for co-designing the brain and body of various embodied agents.
+As a researcher in the Embodied Intelligence field, my passion lies in Robot Co-Design, Evolutionary Learning, and Large Models. I focus on the simultaneous coordination of brain (control), body (morphology), and environment (task) to design embodied agents that are not only structurally sound but also behaviorally adept.
 
-I received the B.Eng. degree from Southwest Minzu University, P.R. China, in 2020, and the M.Eng. degree from Tsinghua University, P.R. China, in 2023 (advised by [Prof. Xueqian Wang](https://scholar.google.com/citations?user=h9dN_ykAAAAJ&hl=zh-CN)). My industry experience includes being a research intern at [Tencent AI Lab](https://ai.tencent.com/ailab/) from May 2022 to May 2023, where I collaborated with [Shuang Wu](https://scholar.google.com/citations?hl=zh-CN&user=_MtBmxkAAAAJ) and [Haobo Fu](https://haobofu.github.io/). My internship was supported by the 2022 Tencent Rhino-Bird Research Elite Program, and my work focused on generating user-specified behavioral diversity for Game AI.
+I received the B.Eng. degree from [Southwest Minzu University](https://www.swun.edu.cn/), P.R. China, in 2020, and the M.Eng. degree from [Tsinghua University](https://www.tsinghua.edu.cn/), P.R. China, in 2023 (advised by [Prof. Xueqian Wang](https://scholar.google.com/citations?user=h9dN_ykAAAAJ&hl=zh-CN)). Currently, I am pursuing my Ph.D. degree in Control Science and Engineering at Tsinghua University. My industry experience includes being a research intern at [Tencent AI Lab](https://ai.tencent.com/ailab/) from May 2022 to May 2023, where I collaborated with [Shuang Wu](https://scholar.google.com/citations?hl=zh-CN&user=_MtBmxkAAAAJ) and [Haobo Fu](https://haobofu.github.io/). My internship was supported by the 2022 Tencent Rhino-Bird Research Elite Program, and my work focused on generating user-specified behavioral diversity for Game AI.
 
-My favorite singer is [Hikaru Utada](https://en.wikipedia.org/wiki/Hikaru_Utada), I like watching movies and talk shows. Feel free to drop me an email if you are interested in my research or related ideas :smile:. 
+My favorite singer is [Hikaru Utada](https://en.wikipedia.org/wiki/Hikaru_Utada). I also like watching movies and talk shows. Feel free to drop me an email if you are interested in my research or related ideas :smile:. 
