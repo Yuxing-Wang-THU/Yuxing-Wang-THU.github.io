@@ -18,10 +18,14 @@ nav_order: 5
 - (2018) National Scholarship
 
 ### Services
-- Regular reviewer for RSS' 24, CoRL' 24, ICML' 24, ICLR'24-25, NeurIPS'23-24, AAAI'25
+- Regular reviewer for RSS' 24, CoRL' 24-25, ICML' 24-25, ICLR'24-25, NeurIPS'23-25, AAAI'25, ACMMM'25
 - Regular reviewer for IEEE Access, InS
   
 ### Talks
+- (10/2024) Allianz MiCo Center (IAC 2024), Milano, Italy
+  - Title: "Morphology and Behavior Co-Optimization of Modular Satellites for Attitude Control"
+  - Paper: [Here](https://arxiv.org/abs/2409.13166) :sparkles: 
+
 - (05/2024) The Chinese University of Hong Kong, Shenzhen
   - Title: "Brain-Body Co-Design for Embodied Agents: An Introduction and Recent Advances"
   - PPT: [Here](/assets/pdf/BBCD.pptx) :sparkles: 
