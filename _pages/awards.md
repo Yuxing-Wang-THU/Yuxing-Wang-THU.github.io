@@ -28,7 +28,4 @@ nav_order: 5
 
 - (05/2024) The Chinese University of Hong Kong, Shenzhen
   - Title: "Brain-Body Co-Design for Embodied Agents: An Introduction and Recent Advances"
-  - PPT: [Here](/assets/pdf/BBCD.pptx) :sparkles: 
-
-### Vistors
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QX4HEmt0s8xXkEWpLA_0DR4tebAFAIjpP5mGLSe3LTA&cl=ffffff&w=a"></script>
+  - PPT: [Here](/assets/pdf/BBCD.pptx) :sparkles:
