@@ -31,4 +31,4 @@ nav_order: 5
   - PPT: [Here](/assets/pdf/BBCD.pptx) :sparkles: 
 
 ### Vistors
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QX4HEmt0s8xXkEWpLA_0DR4tebAFAIjpP5mGLSe3LTA"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QX4HEmt0s8xXkEWpLA_0DR4tebAFAIjpP5mGLSe3LTA&cl=ffffff&w=a"></script>

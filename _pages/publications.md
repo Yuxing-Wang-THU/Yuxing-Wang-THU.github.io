@@ -21,4 +21,4 @@ Please see <a href="https://scholar.google.com/citations?user=ac-6jfMAAAAJ">Goog
 </div>
 
 ### Vistors
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QX4HEmt0s8xXkEWpLA_0DR4tebAFAIjpP5mGLSe3LTA"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QX4HEmt0s8xXkEWpLA_0DR4tebAFAIjpP5mGLSe3LTA&cl=ffffff&w=a"></script>
