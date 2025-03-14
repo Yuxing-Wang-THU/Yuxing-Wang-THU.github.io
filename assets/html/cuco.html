@@ -1,0 +1,24 @@
+<hr>
+<h2 align="center">Curriculum-based Co-design of Morphology and Control of Voxel-based Soft Robots<h2></h2>
+
+<p align="center">Yuxing Wang, Shuang Wu, Haobo Fu, Qiang Fu, Tiantian Zhang, Yongzhe Chang, Xueqian Wang</p>
+
+</br>
+<div align="center"><img src="/assets/img/publication_preview/modu.jpg" width="500"></div>
+
+<p><strong>Abstract:</strong> Co-design of morphology and control of a Voxel-based Soft Robot (VSR) is challenging due to the notorious bi-level optimization. In this paper, we present a Curriculum-based Co-design (CuCo) method for learning to design and control VSRs through an easy-to-difficult process. Specifically, we expand the design space from a small size to the target size gradually through a predefined curriculum. At each learning stage of the curriculum, we use reinforcement learning to simultaneously train the design policy and the control policy, which is enabled by incorporating the design process into the environment and using differentiable policy representations. The converged morphology and the learned policies from last stage are inherited and then serve as the starting point for the next stage. In empirical studies, we show that CuCo is more efficient in creating larger robots with better performance by reusing the practical design and control patterns learned within each stage, in comparison to prior approaches that learn from scratch in the space of target size.</p>
+<p>📂 <a href="https://openreview.net/pdf?id=r9fX833CsuN">Download paper here!</a><br>
+👉 <a href="https://github.com/Yuxing-Wang-THU/ModularEvoGym">Code is available here!</a><br>
+👉 <a href="https://iclr.cc/media/PosterPDFs/ICLR%202023/10693.png?t=1679636195.527249">Poster is available here!</a></p>
+<p><strong>Bibtex</strong><br></p>
+<pre class="language-bash"><code class="language-bash code-highlight"><span class="code-line line-number" line="1">@inproceedings<span class="token punctuation">{</span>wang2023curriculum,
+</span><span class="code-line line-number" line="2">  <span class="token assign-left variable">title</span><span class="token operator">=</span><span class="token punctuation">{</span>Curriculum-based Co-design of Morphology and Control of Voxel-based Soft Robots<span class="token punctuation">}</span>,
+</span><span class="code-line line-number" line="3">  <span class="token assign-left variable">author</span><span class="token operator">=</span><span class="token punctuation">{</span>Wang, Yuxing and Wu, Shuang and Fu, Haobo and Fu, Qiang and Zhang, Tiantian and Chang, Yongzhe and Wang, Xueqian<span class="token punctuation">}</span>,
+</span><span class="code-line line-number" line="4">  <span class="token assign-left variable">booktitle</span><span class="token operator">=</span><span class="token punctuation">{</span>The Eleventh International Conference on Learning Representations<span class="token punctuation">}</span>,
+</span><span class="code-line line-number" line="5">  <span class="token assign-left variable">year</span><span class="token operator">=</span><span class="token punctuation">{</span><span class="token number">2023</span><span class="token punctuation">}</span>
+</span><span class="code-line line-number" line="6"><span class="token punctuation">}</span>
+</span></code></pre>
+<p>🎦<strong>Video</strong></p>
+<video id="video" controls="" preload="True" width="510">
+    <source id="mp4" src="/assets/img/cuco_video.mp4" type="video/mp4">
+</video>
