@@ -2,7 +2,7 @@
 title: "Dynamics-Adaptive Continual Reinforcement Learning via Progressive Contextualization"
 collection: publications
 permalink: /publication/2023-05-01-paper-title-number-1
-excerpt: "Continual Reinforcement Learning (CRL) via Progressive Contextualization. <br/><img src='/images/daco.jpg' width=300>"
+excerpt: "Continual Reinforcement Learning (CRL) via Progressive Contextualization. <br/><img src='/assets/img/publication_preview/daco.jpg' width=300>"
 date: 2023-05-01
 venue: 'IEEE Transactions on Neural Networks and Learning Systems'
 citation: 'Tiantian Zhang, Zichuan Lin, Yuxing Wang, Deheng Ye, Qiang fu, Xueqian Wang, Xiu Li, Bo Yuan'

@@ -2,7 +2,7 @@
 title: "Curriculum-based Co-design of Morphology and Control of Voxel-based Soft Robots"
 collection: publications
 permalink: /publication/2023-01-01-paper-title-number-1
-excerpt: "Learning to design and control modular soft robots from easy to difficult. <br/><img src='/images/cuco.png' width=300>"
+excerpt: "Learning to design and control modular soft robots from easy to difficult. <br/><img src='/assets/img/publication_preview/modu.jpg' width=300>"
 date: 2023-01-01
 venue: 'International Conference on Learning Representations (ICLR)'
 citation: 'Yuxing Wang, Shuang Wu, Haobo Fu, Qiang Fu, Tiantian Zhang, Yongzhe Chang, Xueqian Wang'
@@ -25,5 +25,5 @@ citation: 'Yuxing Wang, Shuang Wu, Haobo Fu, Qiang Fu, Tiantian Zhang, Yongzhe C
 &#x1F3A6;**Video**
 
 <video id="video" controls="" preload="none" width=510>
-    <source id="mp4" src="/images/cuco_video.mp4" type="video/mp4">
+    <source id="mp4" src="/assets/img/cuco_video.mp4" type="video/mp4">
 </videos>

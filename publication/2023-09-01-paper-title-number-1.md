@@ -2,7 +2,7 @@
 title: "PreCo: Enhancing Generalization in Co-Design of Modular Soft Robots via Brain-Body Pre-Training"
 collection: publications
 permalink: /publication/2023-05-01-paper-title-number-1
-excerpt: "Enhancing Generalization via Brain-Body Pre-Training. <br/><img src='/images/preco.png' width=300>"
+excerpt: "Enhancing Generalization via Brain-Body Pre-Training. <br/><img src='/assets/img/publication_preview/preco.png' width=300>"
 date: 2023-09-01
 venue: 'Conference on Robot Learning (CoRL), 2023, Oral presentation'
 citation: 'Yuxing Wang, Shuang Wu, Tiantian Zhang, Yongzhe Chang, Qiang Fu, Haobo Fu, Xueqian Wang'
@@ -26,5 +26,5 @@ url={https://openreview.net/forum?id=E2vL12SwO1}
 &#x1F3A6;**Video**
 
 <video id="video" controls="" preload="none" width=510>
-    <source id="mp4" src="/images/preco.mp4" type="video/mp4">
+    <source id="mp4" src="/assets/img/preco.mp4" type="video/mp4">
 </videos>

@@ -2,7 +2,7 @@
 title: "A Surrogate-Assisted Controller for Expensive Evolutionary Reinforcement Learning"
 collection: publications
 permalink: /publication/2022-12-01-paper-title-number-3
-excerpt: "A general surrogate-assisted ERL method which can be applied to existing hybrid frameworks to alleviate the computational burden of expensive fitness evaluation. <br/><img src='/images/serl.jpg' width=300>"
+excerpt: "A general surrogate-assisted ERL method which can be applied to existing hybrid frameworks to alleviate the computational burden of expensive fitness evaluation. <br/><img src='/assets/img/publication_preview/serl.jpg' width=300>"
 date: 2022-12-01
 venue: 'Information Sciences'
 citation: 'Yuxing Wang, Tiantian Zhang, Yongzhe Chang, Bin Liang, Xueqian Wang, Bo Yuan'
@@ -30,5 +30,5 @@ citation: 'Yuxing Wang, Tiantian Zhang, Yongzhe Chang, Bin Liang, Xueqian Wang, 
 A HalfCheetah agent trained by SPDERL-I with average performance of 14000 points over 50 test seeds. The agent is able to adjust its posture more appropriately and run faster.
 
 <video id="video0" controls="" preload="none" width=510>
-    <source id="0mp4" src="/images/2.HalfCheetah_trained_by_SPDERL-I_14000.mp4" type="video/mp4">
+    <source id="0mp4" src="/assets/img/2.HalfCheetah_trained_by_SPDERL-I_14000.mp4" type="video/mp4">
 </videos>

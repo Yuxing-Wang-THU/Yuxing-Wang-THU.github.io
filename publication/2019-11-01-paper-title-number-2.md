@@ -2,7 +2,7 @@
 title: "A weighted minimum distance classifier based on relative offset"
 collection: publications
 permalink: /publication/2019-11-01-paper-title-number-2
-excerpt: "An improved Minimum Distance Classifier"
+excerpt: "An improved Minimum Distance Classifier". <br/><img src='/assets/img/publication_preview/wmc.jpg' width=300>"
 date: 2019-11-01
 venue: 'IEEE 4th International Conference on Cloud Computing and Big Data Analysis (ICCCBDA)'
 citation: 'Yuxing Wang, Yulian Jiang'

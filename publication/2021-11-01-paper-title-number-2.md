@@ -2,7 +2,7 @@
 title: "From Big Data Based Price Discrimination to Privacy Leakage: Ethical Analysis and Reflections on Privacy Issues from the Perspective of Hardware and Software"
 collection: publications
 permalink: /publication/2021-11-01-paper-title-number-2
-excerpt: "Ethical analysis and reflections on privacy issues from the perspective of hardware and software. <br/><img src='/images/eth.jpg' width=300>"
+excerpt: "Ethical analysis and reflections on privacy issues from the perspective of hardware and software. <br/><img src='/assets/img/publication_preview/eth.jpg' width=300>"
 date: 2021-11-01
 venue: 'Science Economy Society'
 citation: 'Yuxing Wang, Bo Yuan'
