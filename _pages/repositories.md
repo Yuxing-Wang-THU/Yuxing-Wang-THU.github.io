@@ -47,4 +47,4 @@ nav_order: 4
 {% endif %}
 
 ### Vistors
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5la4vnho5tp&amp;s=206&amp;m=0&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QX4HEmt0s8xXkEWpLA_0DR4tebAFAIjpP5mGLSe3LTA"></script>
