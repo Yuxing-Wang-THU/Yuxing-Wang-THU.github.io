@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A site of our survey ["Brain-Body Co-Design for Embodied Agents: A Survey of Neural Approaches"](https://github.com/Yuxing-Wang-THU/Awesome-Brain-Body-Co-Design-of-Embodied-Agents) has been created. The repo will be updated on a regular basis! The full paper will be updated to Arxiv soon!
+A site of our survey ["Brain-Body Co-Design in Embodied Intelligence: Taxonomy, Frontiers, and Challenges"](https://github.com/Yuxing-Wang-THU/Awesome-Brain-Body-Co-Design-of-Embodied-Agents) has been created. The repo will be updated on a regular basis! The full paper will be updated to Arxiv soon!
