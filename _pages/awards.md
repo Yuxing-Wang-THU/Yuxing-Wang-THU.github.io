@@ -18,7 +18,7 @@ nav_order: 5
 - (2018) National Scholarship
 
 ### Services
-- Regular reviewer for RSS' 24, CoRL' 24-25, ICML' 24-25, ICLR'24-25, NeurIPS'23-25, AAAI'25, ACMMM'25
+- Regular reviewer for RSS, CoRL, ICML, ICLR, NeurIPS, AAAI, ACMMM
 - Regular reviewer for IEEE Access, InS
   
 ### Talks
@@ -30,5 +30,5 @@ nav_order: 5
   - Title: "Brain-Body Co-Design for Embodied Agents: An Introduction and Recent Advances"
   - PPT: [Here](/assets/pdf/BBCD.pptx) :sparkles:
 
-## Visitors
-<div align="center"><a  href='https://clustrmaps.com/site/1c4vx'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=310&t=n&d=QX4HEmt0s8xXkEWpLA_0DR4tebAFAIjpP5mGLSe3LTA&co=ffffff&ct=808080'/></a>
+<!-- ## Visitors
+<div align="center"><a  href='https://clustrmaps.com/site/1c4vx'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=310&t=n&d=QX4HEmt0s8xXkEWpLA_0DR4tebAFAIjpP5mGLSe3LTA&co=ffffff&ct=808080'/></a> -->
