@@ -26,4 +26,4 @@ citation: 'Yuxing Wang, Shuang Wu, Haobo Fu, Qiang Fu, Tiantian Zhang, Yongzhe C
 
 <video id="video" controls="" preload="none" width=510>
     <source id="mp4" src="/assets/img/cuco_video.mp4" type="video/mp4">
-</videos>
+</video>

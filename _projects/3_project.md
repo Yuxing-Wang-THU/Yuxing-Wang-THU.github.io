@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Evolutionary Art
-description: Using Compositional Pattern-Producing Network(CPPN) to generate pictures
+description: Using Compositional Pattern-Producing Networks (CPPNs) to generate images
 img: /assets/img/eart.jpg
 importance: 3
 category: work

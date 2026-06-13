@@ -8,8 +8,8 @@ category: work
 related_publications: false
 
 ---
-In this project, we design a wearable hand rehabilitation robot, which consists of a data glove, a manipulator and an APP. This system allows the patient to use a healthy hand to operate the rehabilitation glove, thus controlling the robot to drive the disabled hand to reproduce its movements. At the same time, combined with the rehabilitation program customized by professional physicians integrated into the APP, the system can provide corresponding rehabilitation training for different degrees of disability.
+In this project, we designed a wearable hand rehabilitation robot consisting of a data glove, a manipulator, and an app. This system allows patients to use their healthy hand to operate the rehabilitation glove, enabling the robot to drive the affected hand and reproduce its movements. The system also integrates rehabilitation programs customized by professional physicians, allowing it to provide corresponding training for different levels of impairment.
 
 <video id="video0" controls="" preload="True" width=510>
     <source id="0mp4" src="/assets/img/my_video.mp4" type="video/mp4">
-</videos>
+</video>

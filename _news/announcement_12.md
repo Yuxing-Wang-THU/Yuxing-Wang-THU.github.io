@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper got accepted to Information Sciences.
+One paper was accepted by Information Sciences.

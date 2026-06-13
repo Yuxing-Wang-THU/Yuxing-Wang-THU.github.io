@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Completed my master's thesis defense in Tsinghua University.
+Completed my master's thesis defense at Tsinghua University.

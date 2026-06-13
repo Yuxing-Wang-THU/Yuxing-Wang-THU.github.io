@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper got accepted to IEEE TNNLS.
+One paper was accepted by IEEE TNNLS.

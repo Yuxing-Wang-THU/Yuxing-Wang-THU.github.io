@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Served as a program committee for [NeurIPS 2025]() and [ACMMM 2025]().
+Served as a program committee member for [NeurIPS 2025]() and [ACM MM 2025]().

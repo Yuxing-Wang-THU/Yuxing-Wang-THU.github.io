@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Served as a reviewer for [NIPS 2023](https://nips.cc/Conferences/2023/Board).
+Served as a reviewer for [NeurIPS 2023](https://nips.cc/Conferences/2023/Board).

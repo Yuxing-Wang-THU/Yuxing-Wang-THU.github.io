@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Served as a program committee for [ICML 2025](https://icml.cc/Conferences/2025/Dates).
+Served as a program committee member for [ICML 2025](https://icml.cc/Conferences/2025/Dates).

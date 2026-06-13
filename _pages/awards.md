@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /awards/
-title: Awards & Services
+title: Awards & Service
 nav: true
 nav_order: 5
 ---
@@ -17,8 +17,8 @@ nav_order: 5
 - (2018) International Underwater Robot Competition (First Prize)
 - (2018) National Scholarship
 
-### Services
-- Regular reviewer for RSS, CoRL, ICML, ICLR, NeurIPS, AAAI, ACMMM
+### Service
+- Regular reviewer for RSS, CoRL, ICML, ICLR, NeurIPS, AAAI, and ACM MM
 - Regular reviewer for IEEE Access, InS
   
 ### Talks

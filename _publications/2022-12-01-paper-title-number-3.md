@@ -31,4 +31,4 @@ A HalfCheetah agent trained by SPDERL-I with average performance of 14000 points
 
 <video id="video0" controls="" preload="none" width=510>
     <source id="0mp4" src="/assets/img/2.HalfCheetah_trained_by_SPDERL-I_14000.mp4" type="video/mp4">
-</videos>
+</video>

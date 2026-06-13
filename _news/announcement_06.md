@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper got accepted to [PPSN 2026](https://ppsn2026.disi.unitn.it/).
+One paper was accepted to [PPSN 2026](https://ppsn2026.disi.unitn.it/).

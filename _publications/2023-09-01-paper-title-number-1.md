@@ -27,4 +27,4 @@ url={https://openreview.net/forum?id=E2vL12SwO1}
 
 <video id="video" controls="" preload="none" width=510>
     <source id="mp4" src="/assets/img/preco.mp4" type="video/mp4">
-</videos>
+</video>

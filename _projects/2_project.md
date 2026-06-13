@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Python & C++ Fem
+title: Python & C++ FEM
 description: Linear Finite Element Method (FEM) for simulating hyperelastic cubes
 img: /assets/img/single_2D_Linear_implicit_False.gif
 importance: 2
@@ -14,25 +14,25 @@ related_publications: false
 
 <img src="/assets/img/Multiple_2D_Neohookean_implicit_False_bend_8.gif" div align=middle width = "49%" /><img src="/assets/img/Multiple_2D_Neohookean_implicit_False_fall_8.gif" div align=middle width = "49%" />
 
-Linear Finite Element Method (FEM) for simulating hyperelastic cubes, all codes are based on pure Python or C++.
+Linear Finite Element Method (FEM) for simulating hyperelastic cubes. The code is implemented in pure Python or C++.
 
 ## Overview 
 
 | Constitutive Models |  Time Integration | Multiple cubes  | 
 | :------------- | :----------: | :----------: | 
 | Linear Elasticity           |    Symplectic Euler   |  Yes  |
-| St. Venant-Kirchhoff        |    Symplectic/Implict Euler   | Yes  |
+| St. Venant-Kirchhoff        |    Symplectic/Implicit Euler   | Yes  |
 | Corotated linear elasticity |    Symplectic Euler   |  Yes  |
-| Neohookean elasticity       |    Symplectic/Implict Euler   |  Yes |
+| Neohookean elasticity       |    Symplectic/Implicit Euler   |  Yes |
 
-## Visual Results of a single Triangle
+## Visual Results for a Single Triangle
 <p align="center">Symplectic Euler Methods</p>
 
 <img src="/assets/img/single_2D_Linear_implicit_False.gif" div align=middle width = "49%" /><img src="/assets/img/single_2D_STVK_implicit_False.gif" div align=middle width = "49%" />
 
 <img src="/assets/img/single_2D_Co-rotated_implicit_False.gif" div align=middle width = "49%" /><img src="/assets/img/single_2D_Neohookean_implicit_False.gif" div align=middle width = "49%" />
 
-<p align="center">Implict Euler Methods</p>
+<p align="center">Implicit Euler Methods</p>
 
 <img src="/assets/img/single_2D_STVK_implicit_True.gif" div align=middle width = "49%" /><img src="/assets/img/single_2D_Neohookean_implicit_True.gif" div align=middle width = "49%" />
 
@@ -56,7 +56,7 @@ Linear Finite Element Method (FEM) for simulating hyperelastic cubes, all codes 
 
 <img src="/assets/img/Multiple_2D_Neohookean_implicit_False_bend_8.gif" div align=middle width = "49%" /><img src="/assets/img/Multiple_2D_Neohookean_implicit_False_fall_8.gif" div align=middle width = "49%" />
 
-<p align="center"> Implict Euler Methods </p>
+<p align="center"> Implicit Euler Methods </p>
 
 <p align="center"> St. Venant-Kirchhoff </p>
 

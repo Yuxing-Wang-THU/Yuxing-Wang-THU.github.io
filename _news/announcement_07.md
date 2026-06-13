@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper got accepted to [GECCO 2026](http://gecco-2026.sigevo.org/HomePage).
+One paper was accepted to [GECCO 2026](http://gecco-2026.sigevo.org/HomePage).

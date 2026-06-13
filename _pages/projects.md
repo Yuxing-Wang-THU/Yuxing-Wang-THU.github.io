@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Some cool projects.
+description: Selected research and engineering projects.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
